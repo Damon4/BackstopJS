@@ -1,4 +1,4 @@
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-firefox');
 
 const fs = require('./fs');
 const path = require('path');
